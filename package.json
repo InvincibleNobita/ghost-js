@@ -1,0 +1,16 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "A discord bot or aka a direwolf pet named ghost, obviously inspired from GoT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.18.0"
+  }
+}
